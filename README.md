@@ -10,13 +10,12 @@ It includes interactive charts, tables, and comparison panels, with filtering op
 -  **Filters Panel**
   - Select a county/region
   - Choose an indicator (e.g., unemployment, income, housing prices)
-  - Set a **year range** filter (e.g., 2010–2025)
+  - Set a year range filter (e.g., 2010–2025)
 
 -  **Interactive Chart**
   - Line chart showing indicator trends over time
   - Year displayed on the X-axis
-  - Styled with USF colors (Green, Gold, Grey)
-
+  
 -  **Data Table**
   - Horizontal table of indicator values
   - Easy year-to-year comparison
