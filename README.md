@@ -1,8 +1,8 @@
 #  County Indicators Dashboard
 
-This project is a **React-based Data Dashboard** that visualizes county-level economic and demographic indicators (e.g., Unemployment Rate, Median Household Income, Population).  
+This project is a React-based Data Dashboard that visualizes county-level economic and demographic indicators (e.g., Unemployment Rate, Median Household Income, Population).  
 
-It includes **interactive charts, tables, and comparison panels**, with filtering options by region, indicator, and year range.
+It includes interactive charts, tables, and comparison panels, with filtering options by region, indicator, and year range.
 
 ---
 
@@ -36,7 +36,7 @@ It includes **interactive charts, tables, and comparison panels**, with filterin
 - **Frontend**: React 
 - **UI Framework**: Material-UI (MUI v5)
 - **Charts**: Recharts
-- **State Management**: React Hooks (`useState`, `useEffect`)
+- **State Management**: React Hooks (useState, useEffect)
 - **API**: Custom fetch function to load region, indicator, and series data
 
 ---
