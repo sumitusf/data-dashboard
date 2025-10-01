@@ -1,0 +1,308 @@
+[
+  {
+    "county": "Hillsborough",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLHILL7URN"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12057A052NCEN"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12057"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12057A"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "Resident Population",
+    "series_id": "FLHILL7POP"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLHILL7LFN"
+  },
+  {
+    "county": "Hillsborough",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN120570000000005A"
+  },
+{
+    "county": "Pinellas",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLPINE5URN"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12103A052NCEN"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12103"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12103A"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Resident Population",
+    "series_id": "FLPINE5POP"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLPINE5LFN"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN1210300000005A"
+  },
+  {
+    "county": "Pinellas",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS12103"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLPASC5URN"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12101A052NCEN"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12101"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12101A"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Resident Population",
+    "series_id": "FLPASC5POP"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLPASC5LFN"
+  },
+  {
+    "county": "Pasco",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN121010000000005"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLSARA5URN"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12101A052NCEN"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12115"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12115A"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Resident Population",
+    "series_id": "FLSARA5POP"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLSARA5LFN"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN121150000000005"
+  },
+  {
+    "county": "Sarasota",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS012115 "
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLMANA1URN"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12081A052NCEN"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12081"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12081A"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Resident Population",
+    "series_id": "FLMANA1POP"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLMANA1LFN"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN120810000000005"
+  },
+  {
+    "county": "Manatee",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS012081"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLPOLK5URN"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12105A052NCEN"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12105"
+  },
+  {
+    "county": "Polk",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12105A"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Resident Population",
+    "series_id": "FLPOLK5POP"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLPOLK5LFN"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN121050000000005"
+  },
+  {
+    "county": "Polk",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS012105"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLCITR5URN"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12017A052NCEN"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12017"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "House Price Index",
+    "series_id": "ATNHPIUS12017A"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Resident Population",
+    "series_id": "FLCITR5POP"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLCITR5LFN"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN120170000000005"
+  },
+  {
+    "county": "Citrus",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS012017"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Unemployment Rate",
+    "series_id": "FLHERN3URN"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Median Household Income",
+    "series_id": "MHIFL12053A052NCEN"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Per Capita Personal Income",
+    "series_id": "PCPI12053"
+  },
+
+  {
+    "county": "Hernando",
+    "indicator": "Resident Population",
+    "series_id": "FLHERN3POP"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Civilian Labor Force",
+    "series_id": "FLHERN3LFN"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Employed Person",
+    "series_id": "LAUCN120530000000005"
+  },
+  {
+    "county": "Hernando",
+    "indicator": "Population Below Poverty Line",
+    "series_id": "S1701ACS012053"
+  }
+]
